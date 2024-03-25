@@ -1,0 +1,15 @@
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.csproj.AssemblyReference.cache
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.AssemblyInfoInputs.cache
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.AssemblyInfo.cs
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.csproj.CoreCompileInputs.cache
+/Users/lee/Projects/console1 review new/console1 review new/bin/Debug/net7.0/console1 review new
+/Users/lee/Projects/console1 review new/console1 review new/bin/Debug/net7.0/console1 review new.deps.json
+/Users/lee/Projects/console1 review new/console1 review new/bin/Debug/net7.0/console1 review new.runtimeconfig.json
+/Users/lee/Projects/console1 review new/console1 review new/bin/Debug/net7.0/console1 review new.dll
+/Users/lee/Projects/console1 review new/console1 review new/bin/Debug/net7.0/console1 review new.pdb
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.dll
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/refint/console1 review new.dll
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.pdb
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/console1 review new.genruntimeconfig.cache
+/Users/lee/Projects/console1 review new/console1 review new/obj/Debug/net7.0/ref/console1 review new.dll
